@@ -1,5 +1,3 @@
-# RiseAndFall-Dev Wiki
-
 ## [Eng] How to edit in-game parameters
 
 Here you can find information about editing in-game parameters such as HP, Damage, Cost in Gold & Wood.
